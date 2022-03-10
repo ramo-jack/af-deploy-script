@@ -9,7 +9,7 @@
 
 Deploy to heroku.
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/af-deploy-script">
+<a href="https://heroku.com/deploy?template=https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
